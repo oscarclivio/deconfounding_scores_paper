@@ -1,0 +1,4 @@
+WARNING (acic2016 27 0 1) (iter 18): near-zero beta
+WARNING (acic2016 27 0 1) (iter 78): near-zero beta
+WARNING (acic2016 27 0 1) (iter 79): near-zero beta
+WARNING (acic2016 27 0 1) (iter 91): near-zero beta

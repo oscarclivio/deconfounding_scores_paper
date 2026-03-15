@@ -1,0 +1,3 @@
+WARNING (acic2016 74 1 0) (iter 54): near-zero alpha
+WARNING (acic2016 74 1 0) (iter 84): near-zero alpha
+WARNING (acic2016 74 1 0) (iter 94): near-zero alpha

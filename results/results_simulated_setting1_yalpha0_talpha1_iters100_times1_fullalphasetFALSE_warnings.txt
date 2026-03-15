@@ -1,0 +1,3 @@
+WARNING (simulated 1 0 1) (iter 45): near-zero beta
+WARNING (simulated 1 0 1) (iter 68): near-zero beta
+WARNING (simulated 1 0 1) (iter 97): near-zero beta
